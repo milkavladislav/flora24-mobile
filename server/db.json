@@ -1,0 +1,5 @@
+{
+    "users": [
+      { "id": 1, "username": "user", "password": "1234", "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InVzZXIiLCJwYXNzd29yZCI6IjEyMzQifQ.mqo5fvnDXW48nAEy2-dAGXYAkrbzGUCGU3FesVakaBw"}
+    ]
+  }
